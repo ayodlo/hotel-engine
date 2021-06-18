@@ -1,22 +1,25 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Devon Lewis' Hotel-Engine Coding Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Setup
 
-In the project directory, you can run:
+In the project directory, you can run the following:
+
+### `npm install`
+
+Will install necessary dependencies (axios & react-router-dom)
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `npm test`
 
+I did not create any tests for this project. The default test runner is still included.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
@@ -69,7 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# hotel-engine
-My attempt at Hotel-Engine's coding challenge!
->>>>>>> dae0452a2fc98a1293440bb51d6d4b781dc9a549
