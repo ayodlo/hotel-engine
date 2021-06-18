@@ -1,9 +1,9 @@
-import "./App.css";
+import "./Search.css";
 import axios from "axios";
 import { useState, useEffect } from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 
-function App() {
+function Search() {
   const [repoItems, setRepoItems] = useState([]);
   const [language, setLanguage] = useState("");
   const [query, setQuery] = useState("");
@@ -87,4 +87,4 @@ function App() {
   );
 }
 
-export default App;
+export default Search;
